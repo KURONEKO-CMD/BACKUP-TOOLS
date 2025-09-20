@@ -1,0 +1,17 @@
+# Build artifacts
+/target/
+
+# Local configuration
+/backup.toml
+
+# Temporary & editor files
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+.env*
+
+# IDE / tooling
+.idea/
+.vscode/
